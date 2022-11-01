@@ -1,0 +1,3 @@
+displayName = Tml Vanity Be Gone
+author = Dradonhunter11
+version = 0.1

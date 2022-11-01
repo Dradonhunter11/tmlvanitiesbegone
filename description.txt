@@ -1,0 +1,1 @@
+Simple mod that make it so treasure bag no longer drop those patreon and tml dev set. This does not remove ReLogic dev set however.
